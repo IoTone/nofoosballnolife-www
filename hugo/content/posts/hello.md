@@ -8,5 +8,5 @@ description = "Welcome to the landing page for No Foosball, No Life"
 
 TODO
 
-- The Reddit Lens Drop: https://www.reddit.com/r/Spectacles/comments/1s6o64q/new_lensdrop_moiré_lens_lab_s1_a_spatial_art_book/
+- The Reddit Lens Drop: https://www.reddit.com/r/Spectacles/comments/1rgvy3x
 - Feedback: https://github.com/IoTone/nofoosballnolife-www/issues
